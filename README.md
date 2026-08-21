@@ -1,6 +1,6 @@
 ## Hey, my name is Ndadlana Piet Maseko 👋
 
-I am an aspiring Data Analyst with a strong academic background in quantitative analysis and risk management. I hold a Bachelor’s degree in Econometrics, a Bachelor of Science Honours degree in Risk Analysis (Cum Laude), and a Master of Science degree in Risk Analysis (Cum Laude).
+I am an aspiring Data Analyst/ Data Scientist with a strong academic background in quantitative analysis and risk management. I hold a Bachelor’s degree in Econometrics, a Bachelor of Science Honours degree in Risk Analysis (Cum Laude), and a Master of Science degree in Risk Analysis (Cum Laude).
 
 I am passionate about transforming raw data into meaningful insights that support strategic business decisions and drive organisational growth. My interests include data analytics, business intelligence, risk analysis, and data visualisation.
 
